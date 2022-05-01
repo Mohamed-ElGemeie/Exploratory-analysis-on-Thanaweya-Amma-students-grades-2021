@@ -74,7 +74,7 @@ pip install statsmodels
 
 Feel free to fork the code and find more insight!
 
-_Check this project's [Documentation/Research ](https://github.com/Mohamed-ElGemeie/Exploratory-analysis-on-Thanaweya-Amma-students-grades-2021/blob/main/Documentation-Math201.pdf) on github for more information_
+Check this project's _[Documentation/Research ](https://github.com/Mohamed-ElGemeie/Exploratory-analysis-on-Thanaweya-Amma-students-grades-2021/blob/main/Documentation-Math201.pdf)_ on github for more information about the found insights
 
 
 <!-- Contributors -->
